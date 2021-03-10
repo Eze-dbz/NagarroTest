@@ -1,0 +1,6 @@
+.vs/*
+Nagarro.App/bin/*
+Nagarro.Tests/bin/*
+packages/*
+Nagarro.App/obj/*
+Nagarro.Tests/obj/*
